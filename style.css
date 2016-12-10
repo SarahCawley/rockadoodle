@@ -1,0 +1,38 @@
+body{
+
+	background: #565051;
+	font-family: 'Kranky', cursive;
+	text-align: center;
+	/*font-size: 70px;*/
+}
+
+.imgContainer {
+	width: 20%;
+	display: inline-block;
+	padding: 2px 10px ;
+	border: 2px solid black;
+	border-radius: 15px;
+	background: black;
+	color: #565051;
+	margin: 1em;
+}
+
+img{
+
+	padding-top: 1em;
+	max-width: 100%;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.imgContainer > p {
+	margin-top: 0;
+}
+
+/*
+	--color-light-yellow: #efc94c;
+	--color-blue: #334d5c;
+	--color-coral: #df5a49;
+	--color-teal: #45B29D;
+	--color-orange: #e27a3f;
+	--color-boarder-gray: #565051;
+*/
